@@ -1,0 +1,24 @@
+{
+  "name": "ts-all-in-one",
+  "version": "1.0.0",
+  "description": "인프런 타입스크립트 올인원 강의를 들으면 작성한 연습 코드 레포지토리입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomemin/ts-all-in-one.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/awesomemin/ts-all-in-one/issues"
+  },
+  "homepage": "https://github.com/awesomemin/ts-all-in-one#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
