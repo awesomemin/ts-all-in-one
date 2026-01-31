@@ -27,6 +27,8 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "react": "^19.2.4",
+    "react-native": "^0.83.1",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
     "typescript": "^5.9.3"
   },
   "devDependencies": {
