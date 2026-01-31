@@ -10,7 +10,7 @@ const seongmin: Profile = {
   married: true,
 };
 
-const seongminAnonymouse: Partial<Profile> = {
+const seongminAnonymous: Partial<Profile> = {
   age: 25,
   married: true,
 };
